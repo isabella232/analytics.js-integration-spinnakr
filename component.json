@@ -2,12 +2,12 @@
   "name": "analytics.js-integration-spinnakr",
   "repo": "segment-integrations/analytics.js-integration-spinnakr",
   "description": "The Spinnakr analytics.js integration.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
     "component/bind": "1.0.0",
-    "segmentio/analytics.js-integration": "0.3.x",
+    "segmentio/analytics.js-integration": "^1.0.1",
     "segmentio/when": "0.0.1"
   },
   "development": {
